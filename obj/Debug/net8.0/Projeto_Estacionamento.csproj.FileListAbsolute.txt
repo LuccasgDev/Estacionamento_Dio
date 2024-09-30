@@ -1,0 +1,14 @@
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\bin\Debug\net8.0\Projeto_Estacionamento.exe
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\bin\Debug\net8.0\Projeto_Estacionamento.deps.json
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\bin\Debug\net8.0\Projeto_Estacionamento.runtimeconfig.json
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\bin\Debug\net8.0\Projeto_Estacionamento.dll
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\bin\Debug\net8.0\Projeto_Estacionamento.pdb
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.AssemblyInfo.cs
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.dll
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\refint\Projeto_Estacionamento.dll
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.pdb
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\Projeto_Estacionamento.genruntimeconfig.cache
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estacionamento\obj\Debug\net8.0\ref\Projeto_Estacionamento.dll

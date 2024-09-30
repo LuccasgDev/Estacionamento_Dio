@@ -1,0 +1,14 @@
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\bin\Debug\net8.0\Projeto_Estagiotamento.exe
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\bin\Debug\net8.0\Projeto_Estagiotamento.deps.json
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\bin\Debug\net8.0\Projeto_Estagiotamento.runtimeconfig.json
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\bin\Debug\net8.0\Projeto_Estagiotamento.dll
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\bin\Debug\net8.0\Projeto_Estagiotamento.pdb
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.AssemblyInfoInputs.cache
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.AssemblyInfo.cs
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.dll
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\refint\Projeto_Estagiotamento.dll
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.pdb
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\Projeto_Estagiotamento.genruntimeconfig.cache
+C:\Users\lucas.nascimento\Documents\Estudo_Dio\C#\Projeto_Estagiotamento\obj\Debug\net8.0\ref\Projeto_Estagiotamento.dll
